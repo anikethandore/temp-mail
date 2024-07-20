@@ -3,6 +3,7 @@
         "asynciterable",
         "automerge",
         "dtos",
-        "mailparser"
+        "mailparser",
+        "test"
     ]
 }
